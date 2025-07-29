@@ -1,68 +1,73 @@
 <h1 align="center">Hi 👋, I’m **Yash Pratap Singh**</h1>
-<h3 align="center">Dark code, cosmic chess, simulation nightmares… shhh… don’t let the devs know 🔒</h3>
+<h3 align="center">Dark code, cosmic chess & simulation nightmares… shhh… don’t let the devs know 🔒</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com/?lines=C%2B%2B+Python+Java+DevOps+DSA;Chess+Mastermind;Dark+Sci‑fi+Horror+Mode;Building+my+best+self" height="90" alt="Typing animation"/>
 </p>
 
+---
+
+## 👁️ Profile Views (Haunting Counter)
 <p align="center">
-  <img src="https://media.giphy.com/media/l0HlQ7LRal3Dkn4Ms/giphy.gif" width="260" alt="Glitch code screen"/>
+  <img src="https://komarev.com/ghpvc/?username=YashPratapSingh&style=flat-square&color=0e75b6" alt="Profile Views"/>
 </p>
 
 ---
 
-## 💀 Horror–Sci‑Fi Aesthetic Section
-
+## 🎭 Aesthetic Horror‑Sci‑Fi Zone
 <p align="center">
-  <img src="https://i.imgur.com/XYZ1.gif" width="180" alt="Blue skull glitch"/>
-  <img src="https://i.imgur.com/XYZ2.gif" width="180" alt="Maze glitch aesthetic"/>
+  <img src="https://media.giphy.com/media/l0HlQ7LRal3Dkn4Ms/giphy.gif" width="180" alt="Glitch code"/>
+  <img src="https://media.giphy.com/media/26tPplGWjN0xLybiU/giphy.gif" width="180" alt="Chess thinking"/>
+  <img src="https://i.imgur.com/XYZ1.gif" width="180" alt="Skull glitch"/>
+  <img src="https://i.imgur.com/XYZ2.gif" width="180" alt="Maze glitch"/>
   <img src="https://i.imgur.com/XYZ3.gif" width="180" alt="Dark corridor flicker"/>
+  <img src="https://i.imgur.com/XYZ5.gif" width="180" alt="Chess board glitch"/>
 </p>
 
+*(Replace `XYZ*.gif` with your own assets or inline base64 for self‑hosting.)*
 
+---
 
 ## 🚀 About Me
- 
-- Languages: C, C++, Python, Java  
-- Tools & Stacks: DevOps • Docker • Azure • React • Node.js • MySQL • Oracle  
-- Interests: Chess • Sci‑fi horror classics • Simulation theory  
-- Mission: Code with precision, play chess with intent, transcend simulated limits
+
+- **PRN**: 24070123136  
+- **Working on**: Betterment of myself  
+- **Learning**: Multiple programming languages & DSA applications  
+- **Collaborating on**: My life  
+- **Seeking help with**: My soul  
+- 🔥 I code in free time, watch sci‑fi horror, and play chess  
+
+> Fun fact: I think we live in a simulation… glitches everywhere waiting to be found
 
 ---
 
-## 🧠 Terminal‑Style Neofetch Block
+## 🧪 Horror Terminal Stat Block
 
 
 ---
 
-## ♟️ Chess & Code Synchronicity
+## ♟️ Chess & Coding Harmonies
 
 <p align="center">
-  <img src="https://i.imgur.com/XYZ4.gif" width="180" alt="Chess thinking"/>
-  <img src="https://i.imgur.com/XYZ5.gif" width="180" alt="Board strategy shift"/>
+  <img src="https://i.imgur.com/XYZ4.gif" width="200" alt="Chess move glitch"/>
 </p>
 
-> “Ask me about code or chess—every opening, every bug, strategy is formation,” says the glitch.
+**Ask me about code or chess—every opening, every bug, strategy is formation.**
 
 ---
 
+## ⚙️ Typing Rhythm & Terminal Demo
+
+
+Displays contributions, languages, and streaks in bold, tech‑noir blocks.
 
 ---
 
-## 💬 Quote of the Night (Auto‑Rotate Theme)
+## 💬 Quote of the Night
 
-> *“We are all code. We are all glitch. Embrace the horror in creation.”*  
-*(Rotate with action script for fresh quote daily.)*
+> *“We are all code. We are all glitch. Embrace the horror in creation.”*
 
----
-
-## 👁️ Profile Views Counter
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YashPratapSingh&style=flat-square&color=0e75b6" alt="Profile views badge"/>
-</p>
-
-Elegant neon–style display of visitor count, no explanation needed.
+*(This rotating quote can refresh daily with a simple script for fresh vibes.)*
 
 ---
 
