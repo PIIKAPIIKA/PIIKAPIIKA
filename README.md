@@ -1,12 +1,9 @@
 <h1 align="center">Hi 👋, I’m **Yash Pratap Singh**</h1>
-<h3 align="center">Dark code, cosmic chess, simulation nightmares… shhh… don’t let the devs know 🔒</h3>
+<h3 align="center">Dark code, cosmic chess & simulation nightmares… shhh… don’t let the devs know 🔒</h3>
 
 <p align="center">
-  <img
-    src="https://readme-typing-svg.demolab.com/?lines=C%2B%2B+Python+Java+DevOps+DSA;Chess+Mastermind;Dark+Sci‑fi+Horror+Mode;Building+my+best+self&width=900&height=100&size=22&font=Fira+Code&color=FFFFFF&center=true"
-    height="100"
-    alt="typing animation"
-  />
+  <!-- Replace with your custom typing GIF -->
+  <img src="https://media.giphy.com/media/l0HlQ7LRal3Dkn4Ms/giphy.gif" width="400" height="90" alt="Dark typing animation"/>
 </p>
 
 ---
@@ -20,12 +17,12 @@
 
 ## 🎭 Aesthetic Horror Sci‑Fi Gallery
 <p align="center">
-  <img src="https://media.giphy.com/media/l0HlQ7LRal3Dkn4Ms/giphy.gif" width="180" alt="Glitch code"/>
-  <img src="https://media.giphy.com/media/26tPplGWjN0xLybiU/giphy.gif" width="180" alt="Chess thinking"/>
-  <img src="https://i.imgur.com/XYZ1.gif" width="180" alt="Skull glitch"/>
-  <img src="https://i.imgur.com/XYZ2.gif" width="180" alt="Maze flicker"/>
-  <img src="https://i.imgur.com/XYZ3.gif" width="180" alt="Dark corridor flash"/>
-  <img src="https://i.imgur.com/XYZ5.gif" width="180" alt="Chess board glitch"/>
+  <img src="https://media.giphy.com/media/l0HlQ7LRal3Dkn4Ms/giphy.gif" width="160" alt="Glitch code"/>
+  <img src="https://media.giphy.com/media/26tPplGWjN0xLybiU/giphy.gif" width="160" alt="Chess thinking"/>
+  <img src="https://media.giphy.com/media/l0HlQ7LRal3Dkn4Ms/giphy.gif" width="160" alt="Skull flicker"/>
+  <img src="https://media.giphy.com/media/26tPplGWjN0xLybiU/giphy.gif" width="160" alt="Maze glitch"/>
+  <img src="https://media.giphy.com/media/l0HlQ7LRal3Dkn4Ms/giphy.gif" width="160" alt="Dark corridor flash"/>
+  <img src="https://media.giphy.com/media/26tPplGWjN0xLybiU/giphy.gif" width="160" alt="Chess board glitch"/>
 </p>
 
 
@@ -36,17 +33,17 @@
 
 - **PRN**: 24070123136  
 - 🔭 Working on: Betterment of myself  
-- 🌱 Learning: Multiple programming languages & DSA  
+- 🌱 Learning: Multiple languages and DSA  
 - 👯 Collaborating on: My life  
 - 🤝 Seeking help with: My soul  
-- All projects available via my GitHub  
-- 💬 Ask me about code & chess  
-- 📫 Reach me: yashpratap4913@gmail.com  
-- ⚡ Fun fact: I think we live in a simulation—glitches everywhere awaiting discovery
+- 💬 Ask me about: code & chess  
+- 📫 Contact: yashpratap4913@gmail.com  
+- ⚡ Fun fact: I believe we live in a simulation—glitches everywhere awaiting discovery
 
 ---
 
 ## 🧪 Terminal‑Mode Horror Stats
+
 ## ♟️ Chess & Code Synergy
 
 <p align="center">
