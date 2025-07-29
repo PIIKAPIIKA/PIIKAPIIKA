@@ -1,76 +1,37 @@
-<div align="center">
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="120" alt="Coding GIF"/>
-</div>
+<h1 align="center">Hi 👋, I'm Yash Pratap Singh</h1>
+<h3 align="center">Long live the hypo nature....shhh dont let the devs know</h3>
 
-<h1 align="center">Hi, I’m Yash Pratap Singh</h1>
-<p align="center">
-  🎓 B.Tech student | C / C++ / Python / Java | DevOps & DSA enthusiast  
-  🚀 Passionate about coding and sci-fi movies
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=piikapiika&label=Profile%20views&color=0e75b6&style=flat" alt="piikapiika" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=piikapiika" alt="piikapiika" /></a> </p>
+
+- 🔭 I’m currently working on **betterment of myself**
+
+- 🌱 I’m currently learning **different languages and Dsa application in them**
+
+- 👯 I’m looking to collaborate on **my life**
+
+- 🤝 I’m looking for help with **my soul**
+
+- 👨‍💻 All of my projects are available at [github](github)
+
+- 📝 I regularly write articles on [none](none)
+
+- 💬 Ask me about **code and chess**
+
+- 📫 How to reach me **yashpratap4913@gmail.com**
+
+- 📄 Know about my experiences [none](none)
+
+- ⚡ Fun fact **I think we live in simulation...glitches are everywhere just waiting to be found**
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
 </p>
 
-<!-- Profile views counter -->
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YashPratapSingh&style=flat-square&color=blue" alt="Profile Views"/>
-  <br>1 user = 10 views
-</p>
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </p>
 
----
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=piikapiika&show_icons=true&locale=en&layout=compact" alt="piikapiika" /></p>
 
-## 👨‍💻 About Me
-```yaml
-Name: Yash Pratap Singh  
-PRN: 24070123136  
-Summary: I like coding and watching sci-fi movies. I code in my free time, explore DevOps tools, and practice data structures & algorithms.
-
-<p align="left"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="C" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="Docker" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="Linux" width="40" height="40"/> </p>
-(Feel free to replace these with your actual repositories and descriptions)
-
-📺 Fun Fact & Interests
-I enjoy watching sci-fi movies like Interstellar, Blade Runner, and The Matrix
-
-When I’m not coding, I relax with a sci-fi series or tinker with DevOps tools
-
-📫 Contact Me
-You can reach me via email: yash.singh.btech2024@sitpune.edu.in
-
-📊 GitHub Stats
-
-
-
-
-yaml
-Copy
-Edit
-
----
-
-### 🔧 How this README uses elements
-
-- **Visitor counter**: Uses Komarev’s `ghpvc` badge to show profile visits :contentReference[oaicite:1]{index=1}.
-- **GIF header and emojis/badges**: Adds visual flair with a centered coding GIF and emojis for personality :contentReference[oaicite:2]{index=2}.
-- **Skill icons**: Rendered using DevIcon SVGs for consistency and visual clarity :contentReference[oaicite:3]{index=3}.
-- **About, Projects, Contact, Stats**: Structured sections inspired by best practices for GitHub READMEs :contentReference[oaicite:4]{index=4}.
-
----
-
-### ✅ Next Steps
-
-1. Create a public repository named exactly `YashPratapSingh` (or your GitHub username).
-2. Add this as `README.md` in the root directory.
-3. Commit and push—the profile README will appear automatically on your GitHub profile :contentReference[oaicite:5]{index=5}.
-4. Replace placeholder links and add real project information.
-5. Optimize GIF size (small files if possible) for better load performance :contentReference[oaicite:6]{index=6}.
-
----
-
-Let me know if you’d like to add more sections—like coding stats, recent blog posts, or a typing SVG animation!
-::contentReference[oaicite:7]{index=7}
-
-
-
-
-
-Sources
-
-Ask ChatGPT
-
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=piikapiika&show_icons=true&locale=en" alt="piikapiika" /></p>
