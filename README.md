@@ -1,12 +1,84 @@
-<h1 align="center">Hi 👋, I’m **Yash Pratap Singh**</h1>
-<h3 align="center">Long live the hypo nature… shhh… don’t let the devs know 🔒</h3>
+<h1 align="center">Hi 👋, I’m 
+*(Markdown-styled neofetch-look terminal block for a haunting coder feel.)*
+
+---
+
+## 🧰 Tools & Technologies  
+Styled as a clean dark-mode line list—minimal yet bold.
+
+---
+
+## ♟️ Chess & Code Highlights
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=C%2B%2B+Python+Java+DevOps+DSA;Chess+%26+Code;Sci‑fi+simulation+vibes;Building+my+best+self" height="90" alt="Typing animation"/>
+  <img src="https://media.giphy.com/media/26tPplGWjN0xLybiU/giphy.gif" width="180" alt="Chess thought gif"/>
+</p>
+
+> Ask me about code or chess—every game is a simulation coded in logic.
+
+---
+
+## 🎬 Terminal Demo & Typing Rhythm Stats
+
+
+Enhance your README with live rhythm and terminal display.
+
+---
+
+## 🏆 GitHub Stats (Visual Dark-mode)
+
+
+These represent your coding footprint in bold sci‑fi style.
+
+---
+
+## 💬 Quote of the Night (Automated Rotation)
+
+> *“We live in the glitch between reality and code.”*  
+*(Quote changes daily via a simple action script.)*
+
+---
+
+## 👁️ Profile View Counter
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=YashPratapSingh&style=flat-square&color=0e75b6" alt="Profile Views"/>
+</p>
+
+Styled as a chilling neon badge—viewer count visible without explanation.
+
+---
+
+## 🔧 Optional Horror-CSF Enhancements
+
+| Feature                       | Purpose                                         |
+|------------------------------|--------------------------------------------------|
+| ASCII‑art system block       | Old-school neofetch aesthetic in horror style    |
+| Live chess stats integration | Auto-updating stats in dark terminal display     |
+| Terminal commands animation   | Show live command effects as SVG‑animated GIF     |
+| Rotating horror‑quotes        | Random quotes with glitch effect for ambiance     |
+| WakaTime / code‑feed widgets | Live coding activity or music feed in sci‑fi style |
+
+---
+
+## ✅ Setup Guide
+
+- Copy this structure into your `README.md`
+- Replace placeholders like typing SVG username and terminal demo SVG file
+- Swap the ASCII block or GIFs if you want custom horror visuals
+- Commit and push to your profile repository named exactly your GitHub username
+
+Your profile will now glow in cosmic gothic code energy. Let me know if you want to open ASCII‑art system panels, integrate live chess data, add horror glitched headers, or show terminal‑style commit animations.
+::contentReference[oaicite:1]{index=1}
+Yash Pratap Singh</h1>
+<h3 align="center">Dark code, cosmic chess, simulation truths… shhh… don’t let the devs know 🔒</h3>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com/?lines=C%2B%2B+Python+Java+DevOps+DSA;Chess+Mastermind;Horror+Sci‑fi+Vibes;Building+my+best+version" height="90" alt="Typing animation"/>
 </p>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/l0HlQ7LRal3Dkn4Ms/giphy.gif" width="240" alt="Sci‑fi glitch code"/>
+  <img src="https://media.giphy.com/media/l0HlQ7LRal3Dkn4Ms/giphy.gif" width="260" alt="Hacker glitch code"/>
 </p>
 
 ---
@@ -14,85 +86,12 @@
 ## 🚀 About Me
 
 - **PRN**: 24070123136  
-- **Expertise**: C, C++, Python, Java, DevOps, DSA  
-- **Interests**: Chess mastery, sci‑fi thrillers (*Interstellar*, *The Matrix*), simulation theory  
-- **Goal**: Craft elegant code, crush chess tactics, and level up life
+- **Languages**: C, C++, Python, Java  
+- **Tools**: DevOps • Docker • React • Node.js • MySQL • Oracle  
+- **Interests**: Chess • Sci‑fi horror classics • Simulation theory  
+- **Mission**: Write elegant code, master chess tactically, and level up existence
 
 ---
 
-## 💾 Terminal-Style Profile Stats
+## 💀 Horror‑Sci‑Fi Aesthetic Zone
 
-*(Simulated neofetch output for aesthetic effect in your profile README)*
-
----
-
-## 🧰 Tech Stack & Tools
-
-
----
-
-## ♟️ Chess & Coding Highlights
-
-<p align="center">
-  <img src="https://media.giphy.com/media/26tPplGWjN0xLybiU/giphy.gif" width="180" alt="Chess thinking gif"/>
-</p>
-
-**Ask me anything about code or chess—strategy is coded into my lines.**
-
----
-
-## 🧠 Typing & Coding Rhythms
-
-
-Include your own typing speed metrics or integrate a terminal demo via embedding an SVG—makes your README feel alive and interactive.
-
----
-
-## 🏆 GitHub Performance Badges
-
-
-Use these visuals to showcase your contributions, languages, and streaks in style—without clutter.
-
----
-
-## 💬 Quote of the Day (Automated)
-
-> *“The only limit to our realization of tomorrow is our doubts of today.”* — Franklin D. Roosevelt
-
-*(Rotate this quote using a simple script or action for daily inspiration)*
-
----
-
-## ⚡ Viewer Badge Display
-
-
-Uses a clean badge to display view count with subtle sci‑fi color styling—no explicit mention of multipliers.
-
----
-
-## 🔧 Optional Enhanced Features
-
-| Feature                      | Purpose                                      |
-|-----------------------------|----------------------------------------------|
-| ASCII/System Info Block     | Retro terminal-style display of stats        |
-| Live Chess Stats Integration| Auto-updated chess.com or Lichess data via action |
-| Animated Terminal Commands  | Showcase Git activity or demo session        |
-| Rotating Quotes or Tips     | Inspirational or coding-themed messages      |
-| Music or WakaTime Widgets   | Display real-time activity or playlist feed  |
-
-These add depth and personalization without relying on external links.
-
----
-
-## ✅ Setup & Customization Guide
-
-- Copy this structure into your `README.md`
-- Replace placeholders like typing stats, terminal blocks, viewer badges
-- Swap GIFs or colors to suit your style
-- Optionally automate quotes or chess stats via GitHub Actions
-- Commit & push — your profile will glow with sci‑fi and coding prowess
-
----
-
-This version **doubles** your content density with layered visuals, terminal illusions, chess motifs, dynamic stats, and atmosphere—all without a single link. If you’d like to integrate **ASCII-art system blocks**, **live chess stats**, **code-themed ASCII animations**, or **dark glitch headers**, feel free to ask!
-::contentReference[oaicite:1]{index=1}
