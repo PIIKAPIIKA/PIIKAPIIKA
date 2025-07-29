@@ -19,13 +19,10 @@
   <img src="https://i.imgur.com/XYZ3.gif" width="180" alt="Dark corridor flicker"/>
 </p>
 
-*(If platform disallows external hosting, replace `i.imgur.com/...` with equivalent inline base64 or local SVG assets.)*
 
----
 
 ## 🚀 About Me
-
-- PRN: 24070123136  
+ 
 - Languages: C, C++, Python, Java  
 - Tools & Stacks: DevOps • Docker • Azure • React • Node.js • MySQL • Oracle  
 - Interests: Chess • Sci‑fi horror classics • Simulation theory  
@@ -49,10 +46,6 @@
 
 ---
 
-## ⚙️ Typing Speed & Demo Zone
-
-
-*(Graphical representation of contributions, languages, badges—stylistic blocks in README.)*
 
 ---
 
@@ -73,25 +66,3 @@ Elegant neon–style display of visitor count, no explanation needed.
 
 ---
 
-## 🔧 Optional Sci‑Fi Enhancements
-
-- ASCII-art system panels styled like vintage terminals  
-- Live chess.com or Lichess stats auto‑embedded in terminal block  
-- Animated command‑pane GIFs displaying commit flow  
-- Rotating glitch‑effect quotes embedded in blockquotes  
-- WakaTime coding streak or music playlist badges in horror palette  
-
----
-
-## ✅ Setup Instructions
-
-- Paste this full README into your `README.md`
-- Swap placeholders (`XYZ1.gif`, typing stats, terminal demo paths) as needed  
-- If you self-host GIFs or SVGs, ensure they're dark‑mode friendly  
-- Commit & push to a repo named exactly your GitHub username  
-- Optionally enable GitHub Actions for rotating quotes or live stats  
-
----
-
-This one pushes **eight chilling GIFs**, terminal blocks, chess visuals, glitch aesthetics, and a viewer badge into a uniquely immersive horror‑sci‑fi README—crafted to stand out in the void 👁️‍🗨️
-::contentReference[oaicite:1]{index=1}
