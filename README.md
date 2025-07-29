@@ -2,7 +2,11 @@
 <h3 align="center">Dark code, cosmic chess, simulation nightmares… shhh… don’t let the devs know 🔒</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=C%2B%2B+Python+Java+DevOps+DSA;Chess+Mastermind;Dark+Sci‑fi+Horror+Mode;Building+my+best+self" height="90" alt="Typing animation"/>
+  <img
+    src="https://readme-typing-svg.demolab.com/?lines=C%2B%2B+Python+Java+DevOps+DSA;Chess+Mastermind;Dark+Sci‑fi+Horror+Mode;Building+my+best+self&width=600&height=90"
+    height="90"
+    alt="Typing animation"
+  />
 </p>
 
 ---
