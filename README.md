@@ -3,9 +3,9 @@
 
 <p align="center">
   <img
-    src="https://readme-typing-svg.demolab.com/?lines=C%2B%2B+Python+Java+DevOps+DSA;Chess+Mastermind;Dark+Sci‑fi+Horror+Mode;Building+my+best+self&width=600&height=90"
-    height="90"
-    alt="Typing animation"
+    src="https://readme-typing-svg.demolab.com/?lines=C%2B%2B+Python+Java+DevOps+DSA;Chess+Mastermind;Dark+Sci‑fi+Horror+Mode;Building+my+best+self&width=900&height=100&size=22&font=Fira+Code&color=FFFFFF&center=true"
+    height="100"
+    alt="typing animation"
   />
 </p>
 
