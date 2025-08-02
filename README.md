@@ -3,7 +3,7 @@
 
 <p align="center">
   <!-- Replace with your custom typing GIF -->
-  <img src="https://media.giphy.com/media/l0HlQ7LRal3Dkn4Ms/giphy.gif" width="400" height="90" alt="Dark typing animation"/>
+  <img src="https://media.giphy.com/media/l0HlQ7LRal3Dkn4Ms/giphy.gif](https://liferisife.github.io/post/horror-anime-gif" width="400" height="90" alt="Dark typing animation"/>
 </p>
 
 ---
